@@ -5,7 +5,7 @@ This project is a simple __WebView Example Project__ for Android.
 
 ### ScreenShot:
 
-![screenshot-1](https://raw.github.com/booknara/WebViewExample/master/screenshot-1.png) ![screenshot-2](https://raw.github.com/booknara/WebViewExample/master/screenshot-2.png)
+![screenshot-1](https://raw.github.com/booknara/WebViewExample/master/screenshot-1.jpg) ![screenshot-2](https://raw.github.com/booknara/WebViewExample/master/screenshot-2.jpg)
 
 ## Usage
 
